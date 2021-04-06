@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshu76200&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu76200)](https://github.com/himanshu76200/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu76200&layout=compact)](https://github.com/himanshu76200/github-readme-stats)
