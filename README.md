@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himanshu76200
+- 👋 Hi, I’m Himanshu Bhardwaz
 - 👀 I'm a web developer
 - 📫 How to reach me - himanshu76200@gmail.com
 
