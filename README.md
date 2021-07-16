@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Bhardwaz
-- 👀 I'm a web developer
-- 📫 How to reach me - himanshu76200@gmail.com
+- 👀 I Like to code
+- 📫 Contact - himanshu76200@gmail.com
 
 <!---
 himanshu76200/himanshu76200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
