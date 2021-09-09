@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Bhardwaz
 - 👀 I code to get bored and I code when I'm bored.
-- 🎨 Skills - Frontend Development (React), Backend Development (Node), Android Development (React Native)
+- 🎨 Skills - Frontend Development (React), Backend Development (Node), Mobile Development (React Native)
 - 📫 Contact - himanshu76200@gmail.com
 
 <!---
