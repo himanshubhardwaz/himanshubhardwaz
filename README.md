@@ -37,8 +37,8 @@ Want to become a full-time Software Enginner in JS 💸 , an Open Source Contrib
 - 👨🏽‍💻 I’m currently working working as a R&D Intern @ [SaaSLabs](https://www.saaslabs.co)
 - 🌱 I’m currently working with React, Tailwind, react-query, Redux, socket.io and Twilio.
 - 🤔 I’m currently learning Next.js.
-<!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 I'm also bulding a super easy to use form validation library for React.js [react-use-form-validate](https://www.npmjs.com/package/react-use-form-validate)
+- 💬 Ask me about React, JavaScript :)
+- ⚡️ I'm also bulding a super easy to use form validation library for React.js [react-use-form-validate](https://www.npmjs.com/package/react-use-form-validate)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Music, Netflix, Cricket.
 - 📫 How to reach me: himanshu76200@gmail.com
