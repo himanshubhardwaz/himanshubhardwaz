@@ -42,7 +42,7 @@ Want to become a full-time Software Enginner in JS 💸 , an Open Source Contrib
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Music, Netflix, Cricket.
 - 📫 How to reach me: himanshu76200@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1fDgY5xPRlujndJpSUcU06TfCrlj-9ArP/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1I6YxfIi9QAzYC2lJwEXftLhHl-JKJksv/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
 
