@@ -84,9 +84,6 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 
 
-![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshu
-
-
-&show_icons=true&theme=radical)
+![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshubhardwaz&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubhardwaz&layout=compact)](https://github.com/himanshubhardwaz/github-readme-stats)
