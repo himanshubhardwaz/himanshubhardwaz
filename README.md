@@ -34,7 +34,7 @@ Want to become a full-time Software Enginner in JS 💸 , an Open Source Contrib
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working working as a R&D Intern @ [SaaSLabs](https://www.saaslabs.co)
+- 👨🏽‍💻 I’m currently working working as a SDE Intern @ [SaaSLabs](https://www.saaslabs.co)
 - 🌱 I’m currently working with React, Tailwind, react-query, Redux, socket.io and Twilio.
 - 🤔 I’m currently learning Next.js.
 - 💬 Ask me about React, JavaScript :)
