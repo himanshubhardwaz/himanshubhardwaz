@@ -82,8 +82,3 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Himanshu_Bhardwaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshubhardwaz/)](https://www.linkedin.com/in/himanshubhardwaz/)
 
-
-
-![Himanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=himanshubhardwaz&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubhardwaz&layout=compact)](https://github.com/himanshubhardwaz/github-readme-stats)
