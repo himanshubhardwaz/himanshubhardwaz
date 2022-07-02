@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Himanshu](https://github.com/himanshu76200) 👨‍💻
+### Hi there 👋, I'm [Himanshu](https://github.com/himanshubhardwaz) 👨‍💻
 
 <br/>
 
@@ -77,7 +77,7 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 ###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Himanshu_Bhardwaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-bhardwaz-9b078010b/)](https://www.linkedin.com/in/himanshu-bhardwaz-9b078010b/) or [![Gmail Badge](https://img.shields.io/badge/-himanshu76200@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himanshu76200@gmail.com)](mailto:himanshu76200@gmail.com)
 
 
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/himanshu76200?label=Follow&style=social)](https://github.com/himanshubhardwaz/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@Himanshu_76200-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Himanshu_76200)](https://twitter.com/Himanshu_76200) if you are on a similar path as mine.
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/himanshubhardwaz?label=Follow&style=social)](https://github.com/himanshubhardwaz/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@Himanshu_76200-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Himanshu_76200)](https://twitter.com/Himanshu_76200) if you are on a similar path as mine.
 
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Himanshu_Bhardwaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshubhardwaz/)](https://www.linkedin.com/in/himanshubhardwaz/)
