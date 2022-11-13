@@ -24,9 +24,8 @@ A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some
 <br/>
 Stacks I have worked with : React, Redux, Tailwind, Node, MongoDB, Socket.io
 <br/>  
-Things I am currently experimenting with : Next.js, typescript, jest, mocha ...
+Things I am currently experimenting with : Next.js, typescript, solidjs
 <br/>
-Want to become a full-time Software Enginner in JS 💸 , an Open Source Contributor and a Blogger  ❤️.
 </p>
 
 
