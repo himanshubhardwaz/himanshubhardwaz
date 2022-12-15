@@ -20,11 +20,11 @@
 <br/>
 
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+A Skilled FullStack Typescript Developer 🚀 from India. Always working on some project or learning something new!
 <br/>
-Stacks I have worked with : React, Redux, Tailwind, Node, MongoDB, Socket.io
+Stacks I have worked with : Next.js, Tailwind, Node, MongoDB, Socket.io, Prisma, Postgres
 <br/>  
-Things I am currently experimenting with : Next.js, typescript, solidjs
+Things I am currently experimenting with : React Native
 <br/>
 </p>
 
@@ -34,7 +34,7 @@ Things I am currently experimenting with : Next.js, typescript, solidjs
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working working as a SDE Intern @ [SaaSLabs](https://www.saaslabs.co)
-- 🌱 I’m currently working with React, Tailwind, react-query, Redux, socket.io and Twilio.
+- 🌱 I’m currently working with Typescript, Next.js, Tailwind, react-query, Redux, Zustand, socket.io and Twilio.
 - 🤔 I’m currently learning Next.js.
 - 💬 Ask me about React, JavaScript :)
 - ⚡️ I'm also bulding a super easy to use form validation library for React.js [react-use-form-validate](https://www.npmjs.com/package/react-use-form-validate)
@@ -45,7 +45,7 @@ Things I am currently experimenting with : Next.js, typescript, solidjs
 
 ### 🛠️ Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
