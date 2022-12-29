@@ -33,7 +33,7 @@ Things I am currently experimenting with : React Native
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working working as a SDE Intern @ [SaaSLabs](https://www.saaslabs.co)
+<!-- - 👨🏽‍💻 I’m currently working working as a SDE Intern @ [SaaSLabs](https://www.saaslabs.co) -->
 - 🌱 I’m currently working with Typescript, Next.js, Tailwind, react-query, Redux, Zustand, socket.io and Twilio.
 - 🤔 I’m currently learning Next.js.
 - 💬 Ask me about React, JavaScript :)
