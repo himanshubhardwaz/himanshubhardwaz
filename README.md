@@ -20,7 +20,7 @@
 <br/>
 
 <p>
-A Skilled FullStack Typescript Developer 🚀 from India. Always working on some project or learning something new!
+A Skilled FullStack Typescript Developer 🚀 from India.
 <br/>
 Stacks I have worked with : Next.js, Tailwind, Node, MongoDB, Socket.io, Prisma, Postgres
 <br/>  
