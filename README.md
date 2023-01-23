@@ -20,11 +20,11 @@
 <br/>
 
 <p>
-A Skilled FullStack Typescript Developer 🚀 from India.
+A Skilled FullStack Typescript Developer 🚀.
 <br/>
 Stacks I have worked with : Next.js, Tailwind, Node, MongoDB, Socket.io, Prisma, Postgres
 <br/>  
-Things I am currently experimenting with : React Native
+Things I am currently experimenting with : Solid.js, Remix
 <br/>
 </p>
 
@@ -35,8 +35,8 @@ Things I am currently experimenting with : React Native
 
 <!-- - 👨🏽‍💻 I’m currently working working as a SDE Intern @ [SaaSLabs](https://www.saaslabs.co) -->
 - 🌱 I’m currently working with Typescript, Next.js, Tailwind, react-query, Redux, Zustand, socket.io and Twilio.
-- 🤔 I’m currently learning Next.js.
-- 💬 Ask me about React, JavaScript :)
+- 🤔 I’m currently learning Solid.js.
+- 💬 Ask me about React, TypeScript :)
 - ⚡️ I'm also bulding a super easy to use form validation library for React.js [react-use-form-validate](https://www.npmjs.com/package/react-use-form-validate)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Music, Netflix, Cricket.
