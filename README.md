@@ -3,11 +3,11 @@
 <br/>
 
 <p>
-A Skilled FullStack Typescript Developer 🚀.
+A FullStack Typescript Developer 🚀.
 <br/>
-Stacks I have worked with : Next.js, Tailwind, Node, MongoDB, Socket.io, Prisma, Postgres
+Stacks I have worked with : Next.js, Remix.run, React Native, Node, MongoDB, Postgres, WebRTC, Prisma, Tailwind
 <br/>  
-Things I am currently experimenting with : Solid.js, Remix
+Things I am currently experimenting with : Rust, Vim
 <br/>
 </p>
 
@@ -17,12 +17,12 @@ Things I am currently experimenting with : Solid.js, Remix
 ### ✨ Quick Facts
 
 <!-- - 👨🏽‍💻 I’m currently working working as a SDE Intern @ [SaaSLabs](https://www.saaslabs.co) -->
-- 🌱 I’m currently working with Typescript, Next.js, Tailwind, react-query, Redux, Zustand, socket.io and Twilio.
-- 🤔 I’m currently learning Solid.js.
+- 🌱 I’m currently working with Typescript, Next.js, Remix, Tailwind, react-query, Redux and Zustand.
+- 🤔 I’m currently learning Solid.js, Vim and Rust.
 - 💬 Ask me about React, TypeScript :)
 - ⚡️ I'm also bulding a super easy to use form validation library for React.js [react-use-form-validate](https://www.npmjs.com/package/react-use-form-validate)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Music, Netflix, Cricket.
+- 🎿 Hobbies other than coding : Music, Netflix, Cricket, F1.
 - 📫 How to reach me: himanshu76200@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1kvqglYfS1IvqIp_df6agzdYigpQwEEI-/view?usp=sharing)
 
