@@ -2,23 +2,6 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/himanshu-bhardwaz-9b078010b/">
-  <img align="left" alt="Himanshu's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/Himanshu_76200">
-  <img align="left" alt="Himanshu Bhardwaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:himanshu76200@gmail.com">
-  <img align="left" alt="Himanshu's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
-
-<br/>
-
 <p>
 A Skilled FullStack Typescript Developer 🚀.
 <br/>
