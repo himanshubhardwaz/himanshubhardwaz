@@ -68,7 +68,3 @@ Things I am currently experimenting with : Solid.js, Remix
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Himanshu_Bhardwaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshubhardwaz/)](https://www.linkedin.com/in/himanshubhardwaz/)
 
-[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshubhardwaz)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshubhardwaz)](https://github.com/anuraghazra/github-readme-stats)
-
