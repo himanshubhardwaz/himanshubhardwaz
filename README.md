@@ -24,7 +24,7 @@ Things I am currently experimenting with : Rust, Vim
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Music, Netflix, Cricket, F1.
 - 📫 How to reach me: himanshu76200@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1kvqglYfS1IvqIp_df6agzdYigpQwEEI-/view?usp=sharing)
+- 📝 [Resume](https://himanshubhardwaz.github.io/resume/Himanshu's_Resume.pdf)
 
 ### 🛠️ Languages and Tools:
 
