@@ -22,7 +22,7 @@ Things I am currently experimenting with : Rust, Vim
 - 💬 Ask me about React, TypeScript :)
 - ⚡️ I'm also bulding a super easy to use form validation library for React.js [react-use-form-validate](https://www.npmjs.com/package/react-use-form-validate)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Music, Netflix, Cricket, F1.
+- 🎿 Hobbies other than coding : Gaming, Music, F1, Cricket, Netflix
 - 📫 How to reach me: himanshu76200@gmail.com
 - 📝 [Resume](https://himanshubhardwaz.github.io/resume/Himanshu's_Resume.pdf)
 
