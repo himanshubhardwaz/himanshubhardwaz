@@ -5,9 +5,9 @@
 <p>
 A FullStack Typescript Developer 🚀.
 <br/>
-Stacks I have worked with : Next.js, Remix.run, React Native, Node, MongoDB, Postgres, WebRTC, Prisma, Tailwind
+Stacks I have worked with : Svelte, Next.js, Remix.run, Postgres, Drizzle, WebRTC, Tailwind
 <br/>  
-Things I am currently experimenting with : Rust, Vim
+Things I am currently experimenting with : Rust, Vim, Go, Zig
 <br/>
 </p>
 
@@ -17,11 +17,9 @@ Things I am currently experimenting with : Rust, Vim
 ### ✨ Quick Facts
 
 <!-- - 👨🏽‍💻 I’m currently working working as a SDE Intern @ [SaaSLabs](https://www.saaslabs.co) -->
-- 🌱 I’m currently working with Typescript, Next.js, Remix, Tailwind, react-query, Redux and Zustand.
-- 🤔 I’m currently learning Solid.js, Vim and Rust.
+- 🌱 I’m currently working with Typescript, Svelte, Zustand, Drizzle, Postgres, Tailwind.
 - 💬 Ask me about React, TypeScript :)
 - ⚡️ I'm also bulding a super easy to use form validation library for React.js [react-use-form-validate](https://www.npmjs.com/package/react-use-form-validate)
-<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Gaming, Music, F1, Cricket, Netflix
 - 📫 How to reach me: himanshu76200@gmail.com
 - 📝 [Resume](https://himanshubhardwaz.github.io/resume/Himanshu's_Resume.pdf)
