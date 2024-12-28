@@ -44,8 +44,7 @@ Things I am currently experimenting with : Rust, Vim, Go, Zig
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Himanshu_Bhardwaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshubhardwaz/)](https://www.linkedin.com/in/himanshubhardwaz/)
 
