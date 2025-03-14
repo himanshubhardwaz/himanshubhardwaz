@@ -5,7 +5,7 @@
 <p>
 A FullStack Typescript Developer 🚀.
 <br/>
-Stacks I have worked with : Svelte, Next.js, Remix.run, Postgres, Drizzle, WebRTC, Tailwind
+I have worked with : React, TypeScript, Next.js, Remix.run, Svelte Kit, Astro, Tailwind, NodeJS, Docker, Kubernetes
 <br/>
 </p>
 
@@ -15,11 +15,9 @@ Stacks I have worked with : Svelte, Next.js, Remix.run, Postgres, Drizzle, WebRT
 ### ✨ Quick Facts
 
 <!-- - 👨🏽‍💻 I’m currently working working as a SDE Intern @ [SaaSLabs](https://www.saaslabs.co) -->
-- 🌱 I’m currently working with Typescript, React, Svelte, Zustand, Drizzle, Postgres, Tailwind.
+- 🌱 I’m currently working with Typescript, React, Zustand, React-Query, Tailwind.
 - 💬 Ask me about React, TypeScript :)
-- ⚡️ I'm also bulding a super easy to use form validation library for React.js [@heisenburg/react]([https://www.npmjs.com/package/react-use-form-validate](https://www.npmjs.com/package/@heisenburg/react))
-- 🎿 Hobbies other than coding : Gaming, Music, F1, Cricket, Netflix
-- 📫 How to reach me: himanshu76200@gmail.com
+- 📫 How to reach me: connect@himanshubhardwaz.com
 - 📝 [Resume](https://himanshubhardwaz.github.io/resume/Himanshu's_Resume.pdf)
 
 ### 🛠️ Languages and Tools:
